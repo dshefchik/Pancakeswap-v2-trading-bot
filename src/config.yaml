@@ -16,3 +16,19 @@ secondscheckingprice_2: '80'
 secondscheckingprice: '4'
 infuraurl: 'https://bsc-dataseed1.binance.org:443'
 tokentokennumerator: '3.3'
+
+tokens:
+  - activate: '1'
+  checkprice: 
+    
+
+# activatetoken1: '1'
+# checkpricetoken1: '0'
+# tradewithETHtoken1: '0'
+# tradewithERCtoken1: '0'
+# token1ethaddress: '0'
+# token1low: '0.00001'
+# token1high: '99999'
+# token1ethaddress: '0'
+# token1low: '0.00001'
+# token1high: '99999'
