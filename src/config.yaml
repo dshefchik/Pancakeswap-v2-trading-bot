@@ -1,0 +1,18 @@
+max_slippage: '0.03'
+incaseofbuyinghowmuch: '1'
+
+ethtokeep: '5'
+
+speed: 'schnell'
+maincoinoption: 'BNB'
+mcotoseeassell: '10'
+
+diffdepositaddress: ''
+maxgweinumber: '5'
+diffdeposit: '0'
+maxgwei: '1'
+secondswaitaftertrade: '80'
+secondscheckingprice_2: '80'
+secondscheckingprice: '4'
+infuraurl: 'https://bsc-dataseed1.binance.org:443'
+tokentokennumerator: '3.3'
