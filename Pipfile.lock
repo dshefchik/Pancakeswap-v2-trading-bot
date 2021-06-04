@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "f59372616f4e9d57818365c51b5825e4d45aa057997c31116e58e9f2094ac0b3"
+            "sha256": "a91fef04f8d653d03a13c644c7d6e0bdf87b75ff323938507295072e266aca10"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -79,6 +79,9 @@
             "version": "==0.5.4"
         },
         "eth-hash": {
+            "extras": [
+                "pycryptodome"
+            ],
             "hashes": [
                 "sha256:a3bc7f1c12eb086525999de7f83b9e7ad39740b31f0f4eccb17377ed70de24dd",
                 "sha256:aee46d9c43b98ac6d4ddf957cf75d4d0a5174ee814cc6b53dd6134dcedb459bf"
@@ -219,11 +222,11 @@
         },
         "pycoingecko": {
             "hashes": [
-                "sha256:5927d50b0eee0c6eb49c176d4f11d31851bcee282b9a6d08cad2bff149f66f33",
-                "sha256:ebc17d5947006d02691cc9e4be3533a7a3a5f43da0f9e407e97d592bac26d98c"
+                "sha256:48a0a016fd67ed9bad1e55c2b0c21d314a65233d9b12d229a0e510e5fc5a7080",
+                "sha256:5b6909090ff23a7af8a1e414e0e95a3af29345ec08fddcfba3f50da23a670333"
             ],
             "index": "pypi",
-            "version": "==2.0.0"
+            "version": "==2.1.0"
         },
         "pycryptodome": {
             "hashes": [
