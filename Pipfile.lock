@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "f59372616f4e9d57818365c51b5825e4d45aa057997c31116e58e9f2094ac0b3"
+            "sha256": "6a5f0757885dd9fbd0a00edba4a5f62aabb7c9d338c5357bfdd3aa7a74ceca80"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -79,6 +79,9 @@
             "version": "==0.5.4"
         },
         "eth-hash": {
+            "extras": [
+                "pycryptodome"
+            ],
             "hashes": [
                 "sha256:a3bc7f1c12eb086525999de7f83b9e7ad39740b31f0f4eccb17377ed70de24dd",
                 "sha256:aee46d9c43b98ac6d4ddf957cf75d4d0a5174ee814cc6b53dd6134dcedb459bf"
@@ -354,11 +357,11 @@
         },
         "urllib3": {
             "hashes": [
-                "sha256:753a0374df26658f99d826cfe40394a686d05985786d946fbe4165b5148f5a7c",
-                "sha256:a7acd0977125325f516bda9735fa7142b909a8d01e8b2e4c8108d0984e6e0098"
+                "sha256:39fb8672126159acb139a7718dd10806104dec1e2f0f6c88aab05d17df10c8d4",
+                "sha256:f57b4c16c62fa2760b7e3d97c35b255512fb6b59a259730f36ba32ce9f8e342f"
             ],
             "index": "pypi",
-            "version": "==1.26.5"
+            "version": "==1.26.6"
         },
         "varint": {
             "hashes": [
